@@ -1,10 +1,10 @@
 package com.sparta.springcore.controller;
 
 
-import com.sparta.thymeleaf.dto.ProductMypriceRequestDto;
-import com.sparta.thymeleaf.dto.ProductRequestDto;
-import com.sparta.thymeleaf.entity.Product;
-import com.sparta.thymeleaf.service.ProductService;
+import com.sparta.springcore.dto.ProductMypriceRequestDto;
+import com.sparta.springcore.dto.ProductRequestDto;
+import com.sparta.springcore.entity.Product;
+import com.sparta.springcore.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
